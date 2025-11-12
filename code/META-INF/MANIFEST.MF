@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.7
+Built-By: stratos
+Build-Jdk: 11.0.28
+Main-Class: com.stratosdns.a1bd.Driver
+
